@@ -6,10 +6,10 @@ msgstr ""
 "PO-Revision-Date: 2012-11-22 20:09-0500\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
 
 #. [multiplayer]: id=TL_WC_NM_Cave5
 #. [multiplayer]: id=TL_WC_NM_Sea5
